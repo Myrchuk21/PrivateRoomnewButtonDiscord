@@ -12,6 +12,8 @@
 
 ### Установка
 
+- [Туториал](https://youtu.be/1IfuyBbY9PE)
+
 ```bash
 # Скачиваем исходный код на свой компьютер
 git clone https://github.com/Myrchuk21/PrivateRoomnewButtonDiscord
