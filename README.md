@@ -4,6 +4,7 @@
 
 - [Node](https://nodejs.org/en/) - Version 16 or higher
 - [NPM](https://www.npmjs.com/)
+- [MONGO](https://account.mongodb.com/account/login)
 
 ## Этап 1
 
@@ -25,4 +26,5 @@ npm install
 ## Не забудьте токен
 
 **Этап 2:** После создания бота, влючите функцию `applications.commands` далее включите `OAuth2` [перейти на developer portal](https://discord.com/developers/applications/)
+
 
