@@ -2,7 +2,7 @@
 
 ## Установка
 
-- [Node](https://nodejs.org/en/) - Version 16 or higher
+- [Node](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com/)
 - [MONGO](https://account.mongodb.com/account/login)
 
