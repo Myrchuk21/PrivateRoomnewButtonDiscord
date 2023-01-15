@@ -27,4 +27,6 @@ npm install
 
 **Этап 2:** После создания бота, влючите функцию `applications.commands` далее включите `OAuth2` [перейти на developer portal](https://discord.com/developers/applications/)
 
+<img src="./img/prv.gif">
+
 
