@@ -1,28 +1,28 @@
 # PrivateRoomnewButtonDiscord
 
-## Requirements
+## Установка
 
 - [Node](https://nodejs.org/en/) - Version 16 or higher
 - [NPM](https://www.npmjs.com/)
 
-## Getting started
+## Этап 1
 
-First, make sure you have all the required tools installed on your local machine then continue with these steps.
+Для того, чтобы запустить бота нам нужно!
 
-### Installation
+### Установка
 
 ```bash
-# Clone the repository
+# Скачиваем исходный код на свой компьютер
 git clone https://github.com/Myrchuk21/PrivateRoomnewButtonDiscord
 
-# Enter into the directory
+# Переходим в папку
 cd PrivateRoomnewButtonDiscord/
 
-# Install the dependencies
+# Устанавливаем модули
 npm install
 ```
 
-## Required permissions
+## Не забудьте токен
 
-**Important:** Make sure that your bot has the `applications.commands` application scope enabled, which can be found under the `OAuth2` tap on the [developer portal](https://discord.com/developers/applications/)
+**Этап 2:** После создания бота, влючите функцию `applications.commands` далее включите `OAuth2` [перейти на developer portal](https://discord.com/developers/applications/)
 
