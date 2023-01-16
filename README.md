@@ -13,7 +13,7 @@
 ### Установка
 
 - [Туториал](https://youtu.be/1IfuyBbY9PE)
-- [Поддержка](https://discord.gg/YJXwRqrbMV) & Мурчик#9029
+- [Поддержка](https://discord.com/channels/950849206493515866/1064595964045832197) & [Сервер](https://discord.gg/YJXwRqrbMV)
 
 ```bash
 # Скачиваем исходный код на свой компьютер
